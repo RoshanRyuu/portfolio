@@ -17,8 +17,6 @@ This portfolio is fully **responsive**, optimized for both **desktop web** and *
 ## 📸 Preview
 ![Portfolio Screenshot](assets/images/portfolio_preview.png)
 
-*(Place your screenshot at `assets/portfolio_preview.png` in your repo)*
-
 ---
 
 ## 📦 Packages Used
