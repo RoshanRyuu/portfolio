@@ -1,16 +1,49 @@
-# portfolio
+# Portfolio Website
 
-A new Flutter project.
+A personal portfolio built with **Flutter** showcasing projects, skills, and experience.  
+This portfolio is fully **responsive**, optimized for both **desktop web** and **mobile web** experiences, and includes **modern animations** for an interactive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- **Responsive Design**: Works seamlessly across desktop and mobile browsers.
+- **State Management**: Implemented using **Riverpod** for scalable and maintainable code.
+- **SVG Support**: Smooth and scalable vector graphics using **flutter_svg**.
+- **Custom Animations**: Engaging and interactive transitions to enhance user experience.
+- **Web-Optimized**: Deployed and optimized for fast loading on browsers.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Preview
+![Portfolio Screenshot](assets/images/portfolio_preview.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*(Place your screenshot at `assets/portfolio_preview.png` in your repo)*
+
+---
+
+## 📦 Packages Used
+- [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) – State management
+- [flutter_svg](https://pub.dev/packages/flutter_svg) – SVG image rendering
+- [animations](https://pub.dev/packages/animations) – Flutter animation helpers
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK installed (Channel stable)
+- Dart 3.0+
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-portfolio.git
+
+# Navigate to project folder
+cd your-portfolio
+
+# Get dependencies
+flutter pub get
+
+# Run the app (Web)
+flutter run -d chrome
